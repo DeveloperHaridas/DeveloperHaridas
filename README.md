@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @DeveloperHaridas
+- 👋 Hi, I’m @Developer-Haridas
 - 👀 I’m interested in Web development 
 - 🌱 I’m currently learning React js, Node js etc.
 - 💞️ I’m looking to collaborate on creating new amazing projects with a dedicated team 
