@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @Developer-Haridas
+- 👋 Hi, I’m @DeveloperHaridas
 - 👀 I’m interested in Web development 
-- 🌱 I’m currently learning React js, Node js etc.
+- 🌱My Technical Skills Are Javascript, React Js, Bootstrap, CSS, Angular Js, MongoDB, HTML.
 - 💞️ I’m looking to collaborate on creating new amazing projects with a dedicated team 
 - 📫 How to reach me on GitHub directly 
 - 😄 Pronouns:do nothing as if everything 
