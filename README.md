@@ -3,7 +3,7 @@
 - 🌱My Technical Skills Are Javascript, React Js, Bootstrap, CSS, Angular Js, MongoDB, HTML.
 - 💞️ I’m looking to collaborate on creating new amazing projects with a dedicated team 
 - 📫 How to reach me on GitHub directly 
-- 😄 Pronouns:do nothing as if everything 
+- 😄 Pronouns:do What make  change in the world
   
 
 <!---
